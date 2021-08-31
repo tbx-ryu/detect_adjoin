@@ -1,0 +1,5452 @@
+{
+    "100% minimoo-G": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "19,November": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 12,
+                "1,7": 1,
+                "2": 1,
+                "1,4": 1
+            },
+            "2p": {
+                "7": 6
+            }
+        }
+    },
+    "20,November": {
+        "level": 8,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "6": 1,
+                "1": 2
+            },
+            "2p": {
+                "1": 1
+            }
+        }
+    },
+    "22DUNK": {
+        "level": 5,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 3,
+                "3": 3,
+                "3,6": 1
+            },
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "250bpm": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 4
+            },
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "321 STARS": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 15
+            },
+            "2p": {
+                "7": 13
+            }
+        }
+    },
+    "5.1.1.": {
+        "level": 1,
+        "diff": "n",
+        "adjoin_keys": {
+            "1p": {
+                "1": 2
+            },
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "5PM ETERNAL": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 38,
+                "2": 4
+            },
+            "2p": {
+                "7": 7,
+                "6": 9
+            }
+        }
+    },
+    "牧神笛吹きて": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 5
+            },
+            "2p": {}
+        }
+    },
+    "蒼い衝動": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 6
+            },
+            "2p": {
+                "1": 1,
+                "3": 1,
+                "4": 1,
+                "7": 1
+            }
+        }
+    },
+    "アストライアの双皿": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 4
+            },
+            "2p": {}
+        }
+    },
+    "山岡晃の「クイズ！家事都合！」": {
+        "level": 8,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "踊る！福神漬(CALCUTTA)": {
+        "level": 8,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "5": 2,
+                "6": 1,
+                "2": 2,
+                "1": 1
+            },
+            "2p": {
+                "7": 2,
+                "5": 2,
+                "1": 1
+            }
+        }
+    },
+    "カジノファイヤーことみちゃん": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "7": 1
+            },
+            "2p": {}
+        }
+    },
+    "コスモス": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 7
+            },
+            "2p": {
+                "7": 5
+            }
+        }
+    },
+    "シティ・エンジェル": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "デンドロビウム": {
+        "level": 8,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {},
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "エコ爺": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 2
+            },
+            "2p": {}
+        }
+    },
+    "エブリデイ・ラブリデイ -L.E.D.STYLE MIX-": {
+        "level": 7,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 25,
+                "1,5": 1,
+                "1,3": 1
+            },
+            "2p": {
+                "5": 1,
+                "7": 3
+            }
+        }
+    },
+    "電人、暁に斃れる。": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 36
+            },
+            "2p": {
+                "7": 3
+            }
+        }
+    },
+    "全力 SPECIAL VACATION!! 〜限りある休日〜": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {},
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "月光": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "3,5,7": 1
+            },
+            "2p": {}
+        }
+    },
+    "ヒマワリ": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "表裏一体!?怪盗いいんちょの悩み&hearts;": {
+        "level": 10,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {},
+            "2p": {
+                "7": 2
+            }
+        }
+    },
+    "炸裂！イェーガー電光チョップ!!": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1,3": 3,
+                "1": 49,
+                "1,3,5": 1
+            },
+            "2p": {
+                "7": 8
+            }
+        }
+    },
+    "華蝶風雪": {
+        "level": 10,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "下弦の月": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 22
+            },
+            "2p": {
+                "7": 2
+            }
+        }
+    },
+    "カゴノトリ〜弐式〜": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 2,
+                "2": 2
+            },
+            "2p": {}
+        }
+    },
+    "革命": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {},
+            "2p": {
+                "1": 5,
+                "1,6": 4,
+                "1,7": 14,
+                "1,5": 2,
+                "1,3": 1,
+                "1,4": 3,
+                "5": 3
+            }
+        }
+    },
+    "風の谷のDREAM": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "少年A": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 3
+            },
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "こっちを向いてよ": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 4,
+                "1,5": 1,
+                "1,7": 1
+            },
+            "2p": {
+                "1,7": 1,
+                "2,5": 1,
+                "7": 1
+            }
+        }
+    },
+    "かずあそび": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 2
+            },
+            "2p": {
+                "7": 2
+            }
+        }
+    },
+    "虹色": {
+        "level": 8,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 4
+            },
+            "2p": {
+                "7": 2
+            }
+        }
+    },
+    "天空脳番長危機十六連打": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "ラキラキ": {
+        "level": 8,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "ラクエン": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "ラクエン Feat.Chiharu Chonan -JAKA respect for K.S.K. Remix": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 2
+            },
+            "2p": {}
+        }
+    },
+    "リグレット": {
+        "level": 8,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 43
+            },
+            "2p": {
+                "7": 9
+            }
+        }
+    },
+    "桜": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 6,
+                "1,4": 1,
+                "1,2": 1,
+                "3": 1,
+                "1,5": 1
+            },
+            "2p": {
+                "1": 3,
+                "1,5": 1
+            }
+        }
+    },
+    "千年ノ理": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 4,
+                "2": 5
+            },
+            "2p": {
+                "6": 3,
+                "7": 3
+            }
+        }
+    },
+    "湘南族 -cannibal coast-": {
+        "level": 6,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "水上の提督(Short mix from \"幻想水滸伝V\")": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 8
+            },
+            "2p": {
+                "7": 4
+            }
+        }
+    },
+    "泰東ノ翠霞": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {
+                "7": 5
+            }
+        }
+    },
+    "たからもの": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 9
+            },
+            "2p": {
+                "7": 3
+            }
+        }
+    },
+    "天国のキッス〜D.J.TAKA'S STYLE〜": {
+        "level": 7,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 5,
+                "1,3": 2
+            },
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "電人イェーガーのテーマ": {
+        "level": 10,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1,5": 1,
+                "6": 2,
+                "1": 4,
+                "7": 1
+            },
+            "2p": {
+                "7": 3,
+                "5": 5
+            }
+        }
+    },
+    "合体せよ！ストロングイェーガー!!": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 23
+            },
+            "2p": {}
+        }
+    },
+    "夜のサングラス": {
+        "level": 8,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 3,
+                "7": 1,
+                "2": 1
+            },
+            "2p": {}
+        }
+    },
+    "A": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 4,
+                "3": 2
+            },
+            "2p": {
+                "7": 4,
+                "3": 1
+            }
+        }
+    },
+    "A-JAX (3-WAY MIX)": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {},
+            "2p": {
+                "7": 3
+            }
+        }
+    },
+    "ABSOLUTE": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {},
+            "2p": {
+                "7": 3
+            }
+        }
+    },
+    "abstract": {
+        "level": 9,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 7
+            },
+            "2p": {
+                "6": 1
+            }
+        }
+    },
+    "Abyss": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 11
+            },
+            "2p": {
+                "7": 8
+            }
+        }
+    },
+    "Abyss -The Heavens Remix-": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 13,
+                "2": 9,
+                "3": 1,
+                "4": 1
+            },
+            "2p": {
+                "7": 5,
+                "6": 1,
+                "4": 1
+            }
+        }
+    },
+    "ACID VISION": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 5
+            },
+            "2p": {
+                "7": 4
+            }
+        }
+    },
+    "Aegis": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 7
+            },
+            "2p": {
+                "7": 5
+            }
+        }
+    },
+    "Agnus Dei": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 55
+            },
+            "2p": {}
+        }
+    },
+    "ALFARSHEAR 双神威に廻る夢": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {},
+            "2p": {
+                "7": 4
+            }
+        }
+    },
+    "ALIEN WORLD": {
+        "level": 7,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 6,
+                "2": 2
+            },
+            "2p": {
+                "1": 4,
+                "1,6": 1
+            }
+        }
+    },
+    "All is Wrecked": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 5,
+                "2": 1
+            },
+            "2p": {
+                "7": 4,
+                "6": 5
+            }
+        }
+    },
+    "Almace": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 2
+            },
+            "2p": {
+                "7": 2
+            }
+        }
+    },
+    "ANDROMEDA": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "Apocalypse 〜dirge of swans〜": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 5
+            },
+            "2p": {}
+        }
+    },
+    "Attack the music": {
+        "level": 7,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 3
+            },
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "Attack the music (49 MUSIC MIX)": {
+        "level": 6,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "Attitude": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 6
+            },
+            "2p": {
+                "7": 3
+            }
+        }
+    },
+    "B4U": {
+        "level": 8,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 4
+            },
+            "2p": {}
+        }
+    },
+    "BLUE MIRAGE": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {},
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "BABY LOVE": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "6": 1,
+                "1": 1,
+                "4": 1
+            },
+            "2p": {
+                "3": 1,
+                "7": 1
+            }
+        }
+    },
+    "Bad Routine": {
+        "level": 7,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "Bad boy": {
+        "level": 4,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 2,
+                "3,7": 1
+            },
+            "2p": {
+                "5,7": 1
+            }
+        }
+    },
+    "bag": {
+        "level": 6,
+        "diff": "n",
+        "adjoin_keys": {
+            "1p": {
+                "1": 7
+            },
+            "2p": {}
+        }
+    },
+    "Be OK": {
+        "level": 9,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "Beginning of life(THE GROUND PULSE MIX)": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 2
+            },
+            "2p": {}
+        }
+    },
+    "B4U(BEMANI FOR YOU MIX)": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "Be quiet": {
+        "level": 8,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1,
+                "3,5": 1
+            },
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "Beyond The Earth": {
+        "level": 9,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "2": 2,
+                "1": 16
+            },
+            "2p": {
+                "6": 3,
+                "7": 5
+            }
+        }
+    },
+    "bit mania": {
+        "level": 5,
+        "diff": "n",
+        "adjoin_keys": {
+            "1p": {},
+            "2p": {
+                "5": 1
+            }
+        }
+    },
+    "Blame": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 4
+            },
+            "2p": {}
+        }
+    },
+    "BLOCKS": {
+        "level": 7,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "Bloody Tears(IIDX EDITION)": {
+        "level": 10,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 27
+            },
+            "2p": {
+                "7": 10
+            }
+        }
+    },
+    "Blown My Heart Away": {
+        "level": 7,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 8,
+                "5": 1
+            },
+            "2p": {
+                "7": 2
+            }
+        }
+    },
+    "Blueberry Stream": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {},
+            "2p": {
+                "7": 2,
+                "3,5": 1
+            }
+        }
+    },
+    "been so long": {
+        "level": 4,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "2": 2,
+                "1": 2
+            },
+            "2p": {
+                "1": 1
+            }
+        }
+    },
+    "Brazilian Fire": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 5
+            },
+            "2p": {}
+        }
+    },
+    "Brazilian Rhyme": {
+        "level": 9,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1,3,5": 2,
+                "1": 8
+            },
+            "2p": {
+                "7": 4
+            }
+        }
+    },
+    "Broadbanded": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {},
+            "2p": {
+                "7": 6
+            }
+        }
+    },
+    "BREATH": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {},
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "BRIGHTNESS DARKNESS": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1,6": 1
+            },
+            "2p": {
+                "1": 1,
+                "1,6": 1
+            }
+        }
+    },
+    "BRING HER DOWN": {
+        "level": 10,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {},
+            "2p": {
+                "1": 3
+            }
+        }
+    },
+    "BROKEN EDEN": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 5,
+                "4,6": 1,
+                "3,5": 1,
+                "2,4": 1,
+                "1,3": 1
+            },
+            "2p": {
+                "7": 1,
+                "2,4": 1,
+                "3,5": 1,
+                "4,6": 1,
+                "5,7": 1
+            }
+        }
+    },
+    "Broken My Heart": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "6": 3,
+                "1": 7,
+                "3": 2,
+                "5": 1,
+                "4": 3
+            },
+            "2p": {
+                "4": 1,
+                "6": 4,
+                "7": 4,
+                "1": 5,
+                "5": 1,
+                "3": 1,
+                "4,7": 1,
+                "6,7": 1
+            }
+        }
+    },
+    "Broken": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {},
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "Beat Machine": {
+        "level": 6,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 3
+            },
+            "2p": {
+                "3": 1
+            }
+        }
+    },
+    "Buffalo": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 6,
+                "1,3": 1,
+                "1,6": 1
+            },
+            "2p": {
+                "7": 7,
+                "6": 2,
+                "1": 1
+            }
+        }
+    },
+    "Burnin' The Floor": {
+        "level": 8,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "7": 1
+            },
+            "2p": {
+                "7": 2
+            }
+        }
+    },
+    "Burning Heat!(Full Option Mix)": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 7
+            },
+            "2p": {
+                "1": 3,
+                "7": 9
+            }
+        }
+    },
+    "BURNING UP FOR YOU": {
+        "level": 6,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 7,
+                "6": 1
+            },
+            "2p": {
+                "5": 1
+            }
+        }
+    },
+    "CaptivAte〜誓い〜": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {},
+            "2p": {
+                "7": 4
+            }
+        }
+    },
+    "CaptivAte〜浄化〜": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 20
+            },
+            "2p": {
+                "7": 2
+            }
+        }
+    },
+    "CAR OF YOUR DREAMS": {
+        "level": 6,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {},
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "Catch Me": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 18
+            },
+            "2p": {
+                "7": 3
+            }
+        }
+    },
+    "celebrate": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 2,
+                "2": 1
+            },
+            "2p": {
+                "1": 3,
+                "2": 1
+            }
+        }
+    },
+    "CELEBRATE NITE": {
+        "level": 8,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 6
+            },
+            "2p": {}
+        }
+    },
+    "Changes": {
+        "level": 5,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "3": 7,
+                "1": 2
+            },
+            "2p": {
+                "5": 6,
+                "4": 1
+            }
+        }
+    },
+    "CHECKING YOU OUT": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {},
+            "2p": {
+                "1": 1
+            }
+        }
+    },
+    "Cheer Train": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 6,
+                "1,7": 1,
+                "1,3": 4,
+                "6": 1,
+                "2": 7,
+                "3,4,6": 1,
+                "4": 3,
+                "5": 2,
+                "4,6": 2,
+                "3": 1,
+                "1,5": 1
+            },
+            "2p": {
+                "1,3": 2,
+                "7": 14,
+                "6": 4,
+                "2": 1,
+                "5": 2,
+                "4": 1,
+                "3": 1
+            }
+        }
+    },
+    "Celebration": {
+        "level": 4,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 2
+            },
+            "2p": {}
+        }
+    },
+    "Click Again": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "6": 1
+            },
+            "2p": {}
+        }
+    },
+    "Close my Eyes for Me": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 2
+            },
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "CLOUDY MUSIC": {
+        "level": 8,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "Colors(radio edit)": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 2,
+                "7": 1
+            },
+            "2p": {
+                "7": 7
+            }
+        }
+    },
+    "Colors -Y&amp;Co. Eurobeat Remix-": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 4
+            },
+            "2p": {}
+        }
+    },
+    "Come With Me": {
+        "level": 8,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 3,
+                "2": 1
+            },
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "Comment te dire adieu": {
+        "level": 8,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "2": 1,
+                "1": 1,
+                "4": 1
+            },
+            "2p": {
+                "1": 1
+            }
+        }
+    },
+    "CONGA": {
+        "level": 7,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "4": 1,
+                "1,3": 1,
+                "1": 1,
+                "6": 2,
+                "1,5": 2
+            },
+            "2p": {
+                "1": 4,
+                "2": 1,
+                "5": 1
+            }
+        }
+    },
+    "CONTRACT": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 32
+            },
+            "2p": {
+                "7": 22
+            }
+        }
+    },
+    "Cradle": {
+        "level": 10,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "6": 1,
+                "1": 2,
+                "2": 1
+            },
+            "2p": {
+                "6": 1
+            }
+        }
+    },
+    "CRYMSON": {
+        "level": 6,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 3
+            },
+            "2p": {
+                "7": 2
+            }
+        }
+    },
+    "CRYMSON (SCARLET MIX)": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {
+                "7": 3
+            }
+        }
+    },
+    "DANCER": {
+        "level": 8,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 2
+            },
+            "2p": {
+                "5": 1
+            }
+        }
+    },
+    "Dancin' Into The Night": {
+        "level": 3,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {},
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "Darling my LUV": {
+        "level": 5,
+        "diff": "n",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "DAWN -THE NEXT ENDEAVOUR-": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 2
+            },
+            "2p": {
+                "7": 2
+            }
+        }
+    },
+    "Dazzlin' Darlin": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "Dazzlin' Darlin -秋葉工房mix-": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 2
+            },
+            "2p": {}
+        }
+    },
+    "Deadline": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 2,
+                "1,6": 1,
+                "1,3": 1
+            },
+            "2p": {}
+        }
+    },
+    "Debtty Daddy": {
+        "level": 5,
+        "diff": "n",
+        "adjoin_keys": {
+            "1p": {
+                "4": 1
+            },
+            "2p": {}
+        }
+    },
+    "Deep Clear Eyes": {
+        "level": 6,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {},
+            "2p": {
+                "1": 2
+            }
+        }
+    },
+    "DESTINY": {
+        "level": 4,
+        "diff": "n",
+        "adjoin_keys": {
+            "1p": {
+                "1": 2
+            },
+            "2p": {}
+        }
+    },
+    "Devilz Staircase": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 2
+            },
+            "2p": {}
+        }
+    },
+    "Doigts de Fatima−ファティマの掌−": {
+        "level": 4,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1,3": 1
+            },
+            "2p": {
+                "5,7": 1
+            }
+        }
+    },
+    "DIAMOND JEALOUSY": {
+        "level": 6,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 7
+            },
+            "2p": {}
+        }
+    },
+    "Digital MinD (A/T Libra mix)": {
+        "level": 8,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "5": 7,
+                "7": 1
+            },
+            "2p": {
+                "1": 2
+            }
+        }
+    },
+    "dissolve": {
+        "level": 9,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 5,
+                "7": 1
+            },
+            "2p": {
+                "3": 1,
+                "6": 2,
+                "7": 1
+            }
+        }
+    },
+    "Distress": {
+        "level": 9,
+        "diff": "n",
+        "adjoin_keys": {
+            "1p": {
+                "2": 2,
+                "1": 4
+            },
+            "2p": {
+                "7": 2,
+                "6": 1
+            }
+        }
+    },
+    "DIVE 〜INTO YOUR HEART〜": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 6,
+                "1,2": 1,
+                "2": 1
+            },
+            "2p": {
+                "7": 3,
+                "4": 1
+            }
+        }
+    },
+    "Don't let it go": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 18
+            },
+            "2p": {
+                "7": 3
+            }
+        }
+    },
+    "dong-tepo no.1": {
+        "level": 9,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "7": 3,
+                "3": 2,
+                "1": 6,
+                "5,7": 1
+            },
+            "2p": {
+                "1": 3,
+                "1,7": 2,
+                "6": 2,
+                "7": 1
+            }
+        }
+    },
+    "Don't forget": {
+        "level": 6,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {},
+            "2p": {
+                "5": 1
+            }
+        }
+    },
+    "Don't Stop!": {
+        "level": 4,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {},
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "Do you love me?": {
+        "level": 4,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "5": 1
+            },
+            "2p": {}
+        }
+    },
+    "DREAM": {
+        "level": 7,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "Drivin'": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 5
+            },
+            "2p": {
+                "7": 7
+            }
+        }
+    },
+    "DUNE": {
+        "level": 7,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "3": 1
+            },
+            "2p": {
+                "3": 1
+            }
+        }
+    },
+    "diving money": {
+        "level": 5,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1,6": 1,
+                "1,3": 1,
+                "2": 1,
+                "4": 1
+            },
+            "2p": {
+                "5,7": 1,
+                "5": 1,
+                "1,6": 1,
+                "1": 1,
+                "3": 2
+            }
+        }
+    },
+    "DXY!": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 11,
+                "1,3": 7,
+                "3": 5,
+                "1,7": 1
+            },
+            "2p": {
+                "3": 4
+            }
+        }
+    },
+    "Echo Of Forever": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "3": 1
+            },
+            "2p": {}
+        }
+    },
+    "Electro Tuned (the SubS mix)": {
+        "level": 9,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "5": 3,
+                "3": 1,
+                "1": 1
+            },
+            "2p": {
+                "1": 2,
+                "5": 1,
+                "7": 1
+            }
+        }
+    },
+    "e-motion": {
+        "level": 5,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1,
+                "3": 1
+            },
+            "2p": {
+                "7": 2,
+                "2": 1
+            }
+        }
+    },
+    "e-motion 2003 -romantic extra-": {
+        "level": 10,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {},
+            "2p": {
+                "7": 2
+            }
+        }
+    },
+    "empathy": {
+        "level": 11,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1,3": 6,
+                "3": 1,
+                "7": 1,
+                "4": 1,
+                "1": 6
+            },
+            "2p": {
+                "1": 3,
+                "3": 1,
+                "7": 3
+            }
+        }
+    },
+    "EMPTY OF THE SKY": {
+        "level": 8,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 10
+            },
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "entrance": {
+        "level": 8,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {},
+            "2p": {
+                "1": 1
+            }
+        }
+    },
+    "eRAseRmOToRpHAntOM": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 7
+            },
+            "2p": {
+                "7": 2,
+                "6": 1
+            }
+        }
+    },
+    "era(nostalmix)": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "7": 4,
+                "5": 1,
+                "3,5": 1,
+                "3": 2,
+                "1": 2,
+                "1,3": 1
+            },
+            "2p": {
+                "7": 1,
+                "4": 4,
+                "2": 4,
+                "6": 3,
+                "3": 1,
+                "5": 2
+            }
+        }
+    },
+    "ErAseRmoToR maXimUM": {
+        "level": 9,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 18,
+                "7": 1
+            },
+            "2p": {
+                "1": 14,
+                "3": 2,
+                "5": 8,
+                "7": 3
+            }
+        }
+    },
+    "era(step mix)": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "7": 4,
+                "5": 1,
+                "3,5": 1,
+                "3": 2,
+                "1": 2,
+                "1,3": 1
+            },
+            "2p": {
+                "7": 1,
+                "4": 4,
+                "2": 4,
+                "6": 3,
+                "3": 1,
+                "5": 2
+            }
+        }
+    },
+    "E.V CAFE": {
+        "level": 4,
+        "diff": "n",
+        "adjoin_keys": {
+            "1p": {
+                "1": 2
+            },
+            "2p": {
+                "7": 2
+            }
+        }
+    },
+    "FANTASY": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 8
+            },
+            "2p": {
+                "6": 2,
+                "7": 4
+            }
+        }
+    },
+    "five fathoms(beatmania II special version)": {
+        "level": 3,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 3
+            },
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "FUNKY BINGO PARADISE": {
+        "level": 8,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 3
+            },
+            "2p": {}
+        }
+    },
+    "Flash of love": {
+        "level": 7,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "4,6": 2,
+                "7": 2,
+                "6": 1,
+                "5": 1,
+                "1": 1
+            },
+            "2p": {
+                "4": 2,
+                "7": 1,
+                "6": 1,
+                "1": 1
+            }
+        }
+    },
+    "Flowtation(Original Mix)": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 3
+            },
+            "2p": {}
+        }
+    },
+    "Fly Away(Instrumental)": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1,
+                "4": 1,
+                "1,5": 2
+            },
+            "2p": {
+                "3": 1
+            }
+        }
+    },
+    "foreplay": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "Foundation of our love": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "Frozen Ray(original mix)": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1,3": 1,
+                "1": 2,
+                "3": 1
+            },
+            "2p": {
+                "1": 4,
+                "7": 1
+            }
+        }
+    },
+    "First Resolution": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 51
+            },
+            "2p": {}
+        }
+    },
+    "FUNKTION": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 2
+            },
+            "2p": {}
+        }
+    },
+    "G2": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "6": 1
+            },
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "GALGALIM": {
+        "level": 10,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 8
+            },
+            "2p": {}
+        }
+    },
+    "GAMBOL": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {},
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "Ganymede": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {},
+            "2p": {
+                "7": 4
+            }
+        }
+    },
+    "garden": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 28,
+                "2": 1
+            },
+            "2p": {
+                "7": 35
+            }
+        }
+    },
+    "General Relativity": {
+        "level": 8,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 3
+            },
+            "2p": {
+                "7": 2
+            }
+        }
+    },
+    "GENOCIDE": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 6,
+                "1,7": 1
+            },
+            "2p": {
+                "7": 2
+            }
+        }
+    },
+    "Get'em up to R.A.V.E": {
+        "level": 8,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "Get on Beat": {
+        "level": 4,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {},
+            "2p": {
+                "2": 1
+            }
+        }
+    },
+    "GET ON BEAT(WILD STYLE)": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 7
+            },
+            "2p": {
+                "7": 15
+            }
+        }
+    },
+    "GIRIGIRI DADDY": {
+        "level": 8,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "3": 1
+            },
+            "2p": {
+                "7": 1,
+                "4": 1,
+                "3": 1
+            }
+        }
+    },
+    "Giudecca": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "7": 1,
+                "1,3": 1,
+                "1,7": 1,
+                "1,3,7": 1,
+                "1,5,7": 1,
+                "2": 1,
+                "1": 1
+            },
+            "2p": {
+                "1": 1
+            }
+        }
+    },
+    "Give Me A Sign": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 9,
+                "2,6": 1
+            },
+            "2p": {
+                "7": 2
+            }
+        }
+    },
+    "Give Me Your Love": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "Glorious Days": {
+        "level": 7,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {
+                "7": 2
+            }
+        }
+    },
+    "g.m.d.": {
+        "level": 5,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 4
+            },
+            "2p": {
+                "3": 1,
+                "5": 1,
+                "7": 1
+            }
+        }
+    },
+    "Go Berzerk": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {},
+            "2p": {
+                "6": 1
+            }
+        }
+    },
+    "GOBBLE": {
+        "level": 12,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "6": 2,
+                "4": 3,
+                "5": 2,
+                "3,4": 1,
+                "3": 1
+            },
+            "2p": {
+                "6": 2,
+                "3": 1,
+                "4": 1,
+                "1": 1
+            }
+        }
+    },
+    "GRADIUSIC CYBER": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "7": 1
+            },
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "Gravity": {
+        "level": 10,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 4
+            },
+            "2p": {
+                "1": 1,
+                "7": 2
+            }
+        }
+    },
+    "Happy Wedding": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "2": 1,
+                "1,6": 2,
+                "1": 3,
+                "6": 1
+            },
+            "2p": {
+                "2": 1,
+                "1": 2,
+                "7": 1
+            }
+        }
+    },
+    "HARMONY": {
+        "level": 8,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {},
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "HYPER BOUNDARY GATE": {
+        "level": 9,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 5,
+                "3": 2
+            },
+            "2p": {
+                "6": 1,
+                "3,6": 2
+            }
+        }
+    },
+    "Headache": {
+        "level": 4,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "7": 1
+            },
+            "2p": {
+                "3": 1,
+                "7": 2
+            }
+        }
+    },
+    "HIGHER": {
+        "level": 7,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 11,
+                "1,2": 1
+            },
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "Hitch Hiker2": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 2
+            },
+            "2p": {
+                "2": 2,
+                "5": 1,
+                "1": 3
+            }
+        }
+    },
+    "Holic": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 2,
+                "1,5": 3,
+                "3": 1,
+                "5": 1,
+                "4": 1,
+                "6": 1,
+                "1,7": 1,
+                "1,6": 1,
+                "2,7": 2,
+                "1,3": 1
+            },
+            "2p": {
+                "1": 2,
+                "1,5": 2,
+                "1,7": 1,
+                "5": 5
+            }
+        }
+    },
+    "Honey": {
+        "level": 6,
+        "diff": "n",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "HORIZON": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "2": 1
+            },
+            "2p": {
+                "7": 3
+            }
+        }
+    },
+    "Hormiga obrera": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 3,
+                "3": 1
+            },
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "HOUSE NATION": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 3
+            },
+            "2p": {}
+        }
+    },
+    "High School Love": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 5
+            },
+            "2p": {
+                "7": 3
+            }
+        }
+    },
+    "heaven above": {
+        "level": 7,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "HYPE THE CORE": {
+        "level": 9,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "3": 1
+            },
+            "2p": {
+                "3": 1,
+                "4": 1
+            }
+        }
+    },
+    "IceCube Pf.(RX-Ver.S.P.L.)": {
+        "level": 8,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 8
+            },
+            "2p": {
+                "7": 10
+            }
+        }
+    },
+    "I.C.F.5800": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {},
+            "2p": {
+                "1": 2,
+                "5": 1,
+                "7": 5
+            }
+        }
+    },
+    "IIDX": {
+        "level": 7,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 3,
+                "6": 1,
+                "4": 1
+            },
+            "2p": {
+                "6": 1,
+                "4": 1
+            }
+        }
+    },
+    "I'm In Love Again -DJ YOSHITAKA REMIX-": {
+        "level": 9,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "I'm In Love Again": {
+        "level": 5,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 2
+            },
+            "2p": {}
+        }
+    },
+    "I'm Screaming LOVE": {
+        "level": 7,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "Indigo Vision(full flavour hide around mix)": {
+        "level": 8,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "7": 1
+            },
+            "2p": {
+                "1": 3
+            }
+        }
+    },
+    "INFINITE PRAYER -floating flock style-": {
+        "level": 6,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 5,
+                "5": 1,
+                "3": 2
+            },
+            "2p": {
+                "1": 3,
+                "2": 1
+            }
+        }
+    },
+    "INFERNO": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "INFINITE PRAYER": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 7,
+                "1,3": 3,
+                "3": 1,
+                "6": 1
+            },
+            "2p": {
+                "3,7": 1,
+                "7": 1,
+                "1": 3,
+                "1,3": 2
+            }
+        }
+    },
+    "Innocent Walls": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 9
+            },
+            "2p": {
+                "7": 8,
+                "6": 1
+            }
+        }
+    },
+    "INORI": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "2": 1
+            },
+            "2p": {}
+        }
+    },
+    "INSERTiON": {
+        "level": 8,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 6
+            },
+            "2p": {}
+        }
+    },
+    "into the world": {
+        "level": 4,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "5": 3
+            },
+            "2p": {}
+        }
+    },
+    "IXION": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 34
+            },
+            "2p": {
+                "7": 5,
+                "6": 2
+            }
+        }
+    },
+    "Jack": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 2
+            },
+            "2p": {}
+        }
+    },
+    "Just a Little Smile": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 4
+            },
+            "2p": {}
+        }
+    },
+    "JAM": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "jelly kiss": {
+        "level": 8,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "3,5": 1,
+                "5,7": 1,
+                "4": 1,
+                "6": 2,
+                "1": 3,
+                "3": 1
+            },
+            "2p": {
+                "6": 2,
+                "5,7": 1,
+                "7": 2,
+                "3": 1,
+                "5": 2,
+                "1": 2,
+                "2": 1,
+                "1,6": 1
+            }
+        }
+    },
+    "jelly kiss -Midihead's Smack Mix-": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "3": 1
+            },
+            "2p": {}
+        }
+    },
+    "JIVE INTO THE NIGHT": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 41
+            },
+            "2p": {
+                "7": 35
+            }
+        }
+    },
+    "KAISER PHOENIX": {
+        "level": 10,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 4
+            },
+            "2p": {
+                "7": 4
+            }
+        }
+    },
+    "Karma": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 8
+            },
+            "2p": {
+                "7": 3
+            }
+        }
+    },
+    "Kecak": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "Kiss me all night long": {
+        "level": 7,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 5
+            },
+            "2p": {
+                "2": 1,
+                "6": 1,
+                "1": 1
+            }
+        }
+    },
+    "KAMAITACHI": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "L'amour et la libert&eacute;": {
+        "level": 8,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 7,
+                "7": 1
+            },
+            "2p": {}
+        }
+    },
+    "Last Message": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 13,
+                "3": 1
+            },
+            "2p": {
+                "7": 3
+            }
+        }
+    },
+    "LASER CRUSTER": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {},
+            "2p": {
+                "7": 2
+            }
+        }
+    },
+    "LEADING CYBER": {
+        "level": 6,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "LESSON 5": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 9
+            },
+            "2p": {}
+        }
+    },
+    "LET THE BEAT HIT EM! BASS MIX": {
+        "level": 2,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1,7": 1,
+                "4": 1,
+                "1": 1
+            },
+            "2p": {
+                "1,7": 1
+            }
+        }
+    },
+    "Let the Snow Paint Me": {
+        "level": 7,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {
+                "1": 1
+            }
+        }
+    },
+    "Let the Snow Paint Me -Y&amp;Co. REMIX-": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "7": 1,
+                "1,4": 1
+            },
+            "2p": {
+                "1": 1
+            }
+        }
+    },
+    "Let's talk it over": {
+        "level": 6,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 3
+            },
+            "2p": {
+                "7": 1,
+                "6": 2
+            }
+        }
+    },
+    "LIFE SCROLLING": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 2
+            },
+            "2p": {}
+        }
+    },
+    "lights": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 4
+            },
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "Linus": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 4
+            },
+            "2p": {}
+        }
+    },
+    "Little Little Princess": {
+        "level": 10,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 5,
+                "2": 1
+            },
+            "2p": {}
+        }
+    },
+    "Logic Board": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 7
+            },
+            "2p": {
+                "7": 2
+            }
+        }
+    },
+    "LOVE BOX": {
+        "level": 8,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 2,
+                "2": 4,
+                "1,4": 1,
+                "1,3": 1
+            },
+            "2p": {
+                "7": 2
+            }
+        }
+    },
+    "LOVE WILL…": {
+        "level": 8,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 6
+            },
+            "2p": {}
+        }
+    },
+    "lovin' you": {
+        "level": 4,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "2": 1
+            },
+            "2p": {
+                "6": 2
+            }
+        }
+    },
+    "lower world": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 6
+            },
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "Lighting Shower": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 3
+            },
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "Lucy": {
+        "level": 10,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 3
+            },
+            "2p": {}
+        }
+    },
+    "Luv 2 Feel Your Body": {
+        "level": 9,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "2": 1,
+                "1": 2
+            },
+            "2p": {
+                "1": 1,
+                "7": 1
+            }
+        }
+    },
+    "LUV TO ME (disco mix)": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "7": 9,
+                "1,3": 1,
+                "5": 1,
+                "3": 2,
+                "1": 1,
+                "2,4": 1,
+                "2": 2,
+                "2,6": 1
+            },
+            "2p": {
+                "7": 2,
+                "2": 2,
+                "5": 1
+            }
+        }
+    },
+    "LUV TO ME(UCCHIE'S EDITION)": {
+        "level": 8,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 3
+            },
+            "2p": {
+                "7": 2
+            }
+        }
+    },
+    "Love Again...": {
+        "level": 5,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "LOVE IS DREAMINESS": {
+        "level": 8,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 37,
+                "1,3": 2,
+                "3": 1
+            },
+            "2p": {
+                "6": 1,
+                "5": 7,
+                "7": 1
+            }
+        }
+    },
+    "LOVELY STORM -LOVE IS DREAMINESS RE-INTERPRETATION-": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 27
+            },
+            "2p": {
+                "7": 8
+            }
+        }
+    },
+    "LOVELY STORM": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 30
+            },
+            "2p": {
+                "7": 8
+            }
+        }
+    },
+    "LOVE IS ORANGE": {
+        "level": 5,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 3,
+                "2": 2
+            },
+            "2p": {}
+        }
+    },
+    "LOVE &hearts; SHINE": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {},
+            "2p": {
+                "1": 1
+            }
+        }
+    },
+    "M-02stp.ver1.01": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 4,
+                "1,2": 2,
+                "1,3": 1,
+                "3": 1,
+                "1,6": 1,
+                "2": 1
+            },
+            "2p": {
+                "7": 3,
+                "6": 1,
+                "3": 1
+            }
+        }
+    },
+    "moon_child": {
+        "level": 11,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 2,
+                "2": 2
+            },
+            "2p": {
+                "7": 3,
+                "6": 1
+            }
+        }
+    },
+    "Make A Difference": {
+        "level": 9,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 2
+            },
+            "2p": {
+                "7": 1,
+                "6": 1
+            }
+        }
+    },
+    "Make Me Your Own": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "Make Your Move": {
+        "level": 7,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 2
+            },
+            "2p": {
+                "7": 2
+            }
+        }
+    },
+    "Marmalade Reverie": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 3
+            },
+            "2p": {
+                "7": 3
+            }
+        }
+    },
+    "MAX 300": {
+        "level": 10,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 16,
+                "1,3,7": 1,
+                "1,7": 1
+            },
+            "2p": {
+                "7": 3
+            }
+        }
+    },
+    "Melt in my arms": {
+        "level": 4,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1,7": 1,
+                "2": 4,
+                "1": 1,
+                "7": 1
+            },
+            "2p": {
+                "7": 3,
+                "2": 3,
+                "1,7": 1,
+                "1": 1
+            }
+        }
+    },
+    "memories": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 4,
+                "4": 1
+            },
+            "2p": {
+                "7": 3
+            }
+        }
+    },
+    "mind the gap": {
+        "level": 8,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "minimalian": {
+        "level": 9,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 8
+            },
+            "2p": {}
+        }
+    },
+    "Mobo★Moga": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 5
+            },
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "Monkey Dance": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {
+                "7": 4,
+                "5": 1,
+                "1": 1
+            }
+        }
+    },
+    "MOON": {
+        "level": 10,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 3
+            },
+            "2p": {}
+        }
+    },
+    "more deep(ver.2.1)": {
+        "level": 6,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1,3": 2,
+                "1": 4,
+                "3": 1
+            },
+            "2p": {
+                "5,7": 1,
+                "7": 1
+            }
+        }
+    },
+    "More Move": {
+        "level": 8,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 12,
+                "1,3": 11,
+                "3": 4
+            },
+            "2p": {}
+        }
+    },
+    "mosaic": {
+        "level": 7,
+        "diff": "n",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "Mr.T.(take me higher)": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 4
+            },
+            "2p": {}
+        }
+    },
+    "murmur twins": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 5
+            },
+            "2p": {
+                "7": 2
+            }
+        }
+    },
+    "Nasty!": {
+        "level": 9,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 5,
+                "2": 1,
+                "3": 1
+            },
+            "2p": {
+                "7": 12,
+                "6": 5,
+                "4": 1
+            }
+        }
+    },
+    "NEBULA GRASPER": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 17
+            },
+            "2p": {
+                "7": 12
+            }
+        }
+    },
+    "NEMESIS": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 11,
+                "1,3": 5,
+                "2": 2,
+                "1,7": 1,
+                "6": 3,
+                "2,3": 1,
+                "3": 1,
+                "1,5": 1,
+                "7": 1,
+                "1,3,5": 1,
+                "5": 1
+            },
+            "2p": {
+                "7": 1,
+                "2": 2,
+                "1": 8,
+                "6": 2,
+                "4": 2
+            }
+        }
+    },
+    "neogenesis": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 4
+            },
+            "2p": {
+                "7": 5
+            }
+        }
+    },
+    "No.13": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 10
+            },
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "NPC World": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "never let you down": {
+        "level": 6,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "Never Look Back": {
+        "level": 7,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 8,
+                "3": 1,
+                "2": 1
+            },
+            "2p": {
+                "7": 4
+            }
+        }
+    },
+    "NEW YORK CITY BOY": {
+        "level": 5,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 3
+            },
+            "2p": {}
+        }
+    },
+    "One More Lovely": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 4
+            },
+            "2p": {}
+        }
+    },
+    "oratio": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 11
+            },
+            "2p": {
+                "7": 4
+            }
+        }
+    },
+    "OUTER LIMITS": {
+        "level": 8,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "3": 3,
+                "1": 10,
+                "2": 1,
+                "1,4": 1
+            },
+            "2p": {
+                "6": 8,
+                "5": 8
+            }
+        }
+    },
+    "outer wall": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 13,
+                "7": 1,
+                "1,5": 1
+            },
+            "2p": {
+                "1": 1,
+                "7": 7
+            }
+        }
+    },
+    "OVER THE CLOUDS": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 16
+            },
+            "2p": {
+                "7": 3
+            }
+        }
+    },
+    "pandora": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "Panorama": {
+        "level": 4,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 3,
+                "7": 1
+            },
+            "2p": {
+                "1": 1,
+                "3,7": 1
+            }
+        }
+    },
+    "Parasite World": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 3
+            },
+            "2p": {
+                "7": 2
+            }
+        }
+    },
+    "patsenner": {
+        "level": 6,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "6": 4
+            },
+            "2p": {
+                "6": 6
+            }
+        }
+    },
+    "perfect free": {
+        "level": 5,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "4": 2,
+                "6": 1
+            },
+            "2p": {}
+        }
+    },
+    "Pharaoh": {
+        "level": 8,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "2": 1
+            },
+            "2p": {}
+        }
+    },
+    "PHOTONGENIC": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 10
+            },
+            "2p": {
+                "7": 6
+            }
+        }
+    },
+    "PLEASE DON'T GO": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {},
+            "2p": {
+                "7": 1,
+                "3": 1
+            }
+        }
+    },
+    "Pollinosis": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 60
+            },
+            "2p": {}
+        }
+    },
+    "POODLE": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 4
+            },
+            "2p": {}
+        }
+    },
+    "PRAT FALL": {
+        "level": 7,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "4": 2,
+                "1": 2,
+                "7": 1
+            },
+            "2p": {
+                "1": 3,
+                "6": 2,
+                "7": 1
+            }
+        }
+    },
+    "Pretty Punisher": {
+        "level": 5,
+        "diff": "n",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "Prince on a star": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "3": 5,
+                "6": 1
+            },
+            "2p": {
+                "1": 17,
+                "3": 5
+            }
+        }
+    },
+    "paramnesia": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 9,
+                "2": 2
+            },
+            "2p": {
+                "7": 4
+            }
+        }
+    },
+    "Programmed Sun": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {
+                "7": 6
+            }
+        }
+    },
+    "PSYCHE PLANET-GT": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 2
+            },
+            "2p": {}
+        }
+    },
+    "PUT YOUR FAITH IN ME(for beatmania II)": {
+        "level": 7,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1,
+                "1,3": 1
+            },
+            "2p": {
+                "7": 3,
+                "3": 2,
+                "1": 1
+            }
+        }
+    },
+    "Queen's Jamaica (astria mix)": {
+        "level": 6,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {},
+            "2p": {
+                "4": 1
+            }
+        }
+    },
+    "QQQ": {
+        "level": 12,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 9,
+                "2": 4,
+                "6": 7
+            },
+            "2p": {
+                "7": 36,
+                "1": 4,
+                "3": 2,
+                "6": 1,
+                "5": 1
+            }
+        }
+    },
+    "quasar": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1,
+                "1,7": 1
+            },
+            "2p": {}
+        }
+    },
+    "Quickening": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "7": 2,
+                "1": 3
+            },
+            "2p": {
+                "7": 4
+            }
+        }
+    },
+    "R壱萬": {
+        "level": 8,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 3
+            },
+            "2p": {
+                "7": 3
+            }
+        }
+    },
+    "R2": {
+        "level": 8,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {},
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "R3": {
+        "level": 8,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "2": 2,
+                "3,5": 1,
+                "7": 4,
+                "2,6": 1,
+                "1,6": 1,
+                "1": 1
+            },
+            "2p": {
+                "6": 1,
+                "1,6": 1,
+                "7": 1
+            }
+        }
+    },
+    "R5": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 5
+            },
+            "2p": {}
+        }
+    },
+    "route 80s": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "2": 6,
+                "1": 29,
+                "1,6": 1,
+                "2,5": 1
+            },
+            "2p": {
+                "7": 13,
+                "6": 2
+            }
+        }
+    },
+    "Radical Faith": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "4": 2,
+                "2": 2,
+                "3": 1,
+                "7": 1,
+                "6": 1
+            },
+            "2p": {
+                "6": 2,
+                "3": 1,
+                "7": 1
+            }
+        }
+    },
+    "radius": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 2
+            },
+            "2p": {
+                "7": 2
+            }
+        }
+    },
+    "Raspberry&hearts;Heart(English version)": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {},
+            "2p": {
+                "4": 1,
+                "1": 1
+            }
+        }
+    },
+    "rainbow flyer": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 2,
+                "1,6": 2
+            },
+            "2p": {
+                "7": 3
+            }
+        }
+    },
+    "rainbow rainbow": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {},
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "Real": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1,7": 2,
+                "3": 1,
+                "6": 1
+            },
+            "2p": {}
+        }
+    },
+    "REAL LOVE": {
+        "level": 7,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 4
+            },
+            "2p": {}
+        }
+    },
+    "Recollection": {
+        "level": 7,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {},
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "RED ZONE": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 2
+            },
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "Reflection Into the EDEN": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 6
+            },
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "Regulus": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 8
+            },
+            "2p": {
+                "7": 7
+            }
+        }
+    },
+    "REMEMBER ME": {
+        "level": 8,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "3": 1,
+                "1": 7
+            },
+            "2p": {
+                "7": 2
+            }
+        }
+    },
+    "REPLAY": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "RESONATE 1794": {
+        "level": 11,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 4
+            },
+            "2p": {}
+        }
+    },
+    "RIDE ON THE LIGHT(HI GREAT MIX)": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 7
+            },
+            "2p": {}
+        }
+    },
+    "Right Now": {
+        "level": 5,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 7
+            },
+            "2p": {}
+        }
+    },
+    "Red Nikita": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "ROMEO&amp;JULIET": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "Roulette": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 10
+            },
+            "2p": {
+                "7": 4
+            }
+        }
+    },
+    "satellite020712 from \"CODED ARMS\"": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 9,
+                "1,2": 1,
+                "2": 1
+            },
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "SAMBA DE JANEIRO": {
+        "level": 5,
+        "diff": "n",
+        "adjoin_keys": {
+            "1p": {},
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "SANA MOLLETE NE ENTE(B.L.T.STYLE)": {
+        "level": 8,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "7": 1,
+                "6": 2,
+                "1,4,7": 1,
+                "4": 5,
+                "3": 6,
+                "2": 2,
+                "2,5": 1,
+                "3,6": 1,
+                "1": 1
+            },
+            "2p": {
+                "4": 5,
+                "1": 2,
+                "3": 7,
+                "6": 1,
+                "1,4": 1,
+                "4,7": 1,
+                "5": 1
+            }
+        }
+    },
+    "SANA MOLLETE NE ENTE": {
+        "level": 7,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 3,
+                "4": 1,
+                "7": 1
+            },
+            "2p": {
+                "7": 4,
+                "4": 1,
+                "1,4": 1
+            }
+        }
+    },
+    "sanctus": {
+        "level": 4,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 2
+            },
+            "2p": {
+                "6": 1
+            }
+        }
+    },
+    "Say YEEEAHH": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1,
+                "1,2": 1
+            },
+            "2p": {
+                "7": 4
+            }
+        }
+    },
+    "SCREAM SQUAD": {
+        "level": 6,
+        "diff": "n",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "Schlagwerk": {
+        "level": 11,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "5": 1
+            },
+            "2p": {
+                "2": 1,
+                "1,5": 4,
+                "1": 1,
+                "5": 1
+            }
+        }
+    },
+    "Skyscraper": {
+        "level": 4,
+        "diff": "n",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "Scripted Connection⇒ A mix": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "Scripted Connection⇒ H mix": {
+        "level": 10,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "Scripted Connection⇒ N mix": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "Scripted Connection⇒": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "Secrets": {
+        "level": 10,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "Sense": {
+        "level": 6,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 8
+            },
+            "2p": {}
+        }
+    },
+    "SEXYSEXYCHEVY": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 7
+            },
+            "2p": {}
+        }
+    },
+    "She is my wife": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 2
+            },
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "super highway": {
+        "level": 8,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 2
+            },
+            "2p": {}
+        }
+    },
+    "Shine On": {
+        "level": 9,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "2,4,5": 1,
+                "1": 2,
+                "3": 1
+            },
+            "2p": {
+                "5": 3,
+                "6": 3,
+                "3": 1,
+                "2": 1,
+                "1,3,5,7": 1,
+                "3,7": 1,
+                "7": 2,
+                "1": 1
+            }
+        }
+    },
+    "SigSig": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 18
+            },
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "Silhoette of My Mind": {
+        "level": 4,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "2": 4
+            },
+            "2p": {
+                "2": 2
+            }
+        }
+    },
+    "Silvia Drive": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {
+                "7": 6
+            }
+        }
+    },
+    "ska a go go": {
+        "level": 9,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {},
+            "2p": {
+                "1": 3,
+                "2": 3
+            }
+        }
+    },
+    "SOLITON BEAM": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 3
+            },
+            "2p": {}
+        }
+    },
+    "smile": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 6
+            },
+            "2p": {
+                "7": 3,
+                "6": 1
+            }
+        }
+    },
+    "SOFT LANDING ON THE BODY": {
+        "level": 6,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1,7": 1
+            },
+            "2p": {}
+        }
+    },
+    "SOLID GOLD": {
+        "level": 8,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 4
+            },
+            "2p": {}
+        }
+    },
+    "Somebody Like You": {
+        "level": 8,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 8,
+                "4": 1
+            },
+            "2p": {}
+        }
+    },
+    "sometime": {
+        "level": 8,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 2
+            },
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "SOMETHING WONDERFUL": {
+        "level": 11,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 17,
+                "2": 3,
+                "5": 6
+            },
+            "2p": {
+                "5": 3,
+                "7": 1,
+                "6": 1
+            }
+        }
+    },
+    "So Real": {
+        "level": 5,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "2": 1,
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "S.O.S.": {
+        "level": 11,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 17,
+                "7": 1,
+                "5": 1
+            },
+            "2p": {
+                "1": 13,
+                "7": 1,
+                "5": 1
+            }
+        }
+    },
+    "S.O.S.(THE TIGER TOOK MY FAMILY)": {
+        "level": 8,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 5
+            },
+            "2p": {
+                "1": 1,
+                "7": 5,
+                "3": 1
+            }
+        }
+    },
+    "State Of The Art": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "SPARK !": {
+        "level": 8,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 7
+            },
+            "2p": {}
+        }
+    },
+    "SPEEDY CAT": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 6
+            },
+            "2p": {}
+        }
+    },
+    "Special energy": {
+        "level": 7,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "2": 1,
+                "2,4": 1
+            },
+            "2p": {
+                "1": 1,
+                "2": 1
+            }
+        }
+    },
+    "SPACE FIGHT": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 8,
+                "1,6": 1
+            },
+            "2p": {
+                "7": 6
+            }
+        }
+    },
+    "Sphere": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {},
+            "2p": {
+                "2": 1
+            }
+        }
+    },
+    "Spica": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 6
+            },
+            "2p": {
+                "7": 2
+            }
+        }
+    },
+    "Spin the disc": {
+        "level": 10,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1,
+                "1,5": 1
+            },
+            "2p": {
+                "1": 1
+            }
+        }
+    },
+    "Spooky": {
+        "level": 9,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 9,
+                "4": 2,
+                "1,4": 1,
+                "7": 1,
+                "5": 4,
+                "2": 2
+            },
+            "2p": {
+                "7": 1,
+                "1": 1,
+                "4": 2
+            }
+        }
+    },
+    "SPRING RAIN(LLUVIA DE PRIMAVERA)": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 16
+            },
+            "2p": {
+                "7": 2
+            }
+        }
+    },
+    "SP-TRIP MACHINE(for beatmania II)": {
+        "level": 5,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "7": 1,
+                "1": 1
+            },
+            "2p": {
+                "5,7": 2,
+                "7": 3
+            }
+        }
+    },
+    "SOLID STATE SQUAD": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "starmine": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 12,
+                "1,4": 1
+            },
+            "2p": {}
+        }
+    },
+    "STEP INTO THE NEW WORLD": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 16
+            },
+            "2p": {
+                "7": 10
+            }
+        }
+    },
+    "Stick Around": {
+        "level": 5,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {
+                "7": 3
+            }
+        }
+    },
+    "SPEED TRANCE MACH 3": {
+        "level": 8,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 3,
+                "6,7": 1
+            },
+            "2p": {
+                "6,7": 1
+            }
+        }
+    },
+    "STEEL NEEDLE": {
+        "level": 12,
+        "diff": "l",
+        "adjoin_keys": {
+            "1p": {
+                "1": 8
+            },
+            "2p": {
+                "7": 3
+            }
+        }
+    },
+    "stoic": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 5,
+                "7": 3,
+                "3": 1
+            },
+            "2p": {}
+        }
+    },
+    "still my words": {
+        "level": 7,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 4
+            },
+            "2p": {
+                "7": 2,
+                "1": 2
+            }
+        }
+    },
+    "suggestion": {
+        "level": 8,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "2,5": 1,
+                "1": 5,
+                "2": 6,
+                "3": 1
+            },
+            "2p": {
+                "6": 2,
+                "7": 1
+            }
+        }
+    },
+    "Summer Vacation(CU mix)": {
+        "level": 12,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 15,
+                "3": 1,
+                "2": 2
+            },
+            "2p": {
+                "7": 7,
+                "4": 1
+            }
+        }
+    },
+    "Sun Field": {
+        "level": 9,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "SWEET LAB": {
+        "level": 11,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "4": 5,
+                "5": 5,
+                "6": 2,
+                "5,7": 1,
+                "2": 1
+            },
+            "2p": {
+                "1,6": 2,
+                "6": 2,
+                "2": 1,
+                "1": 1,
+                "5": 3,
+                "4": 1,
+                "1,4": 1,
+                "1,5": 1
+            }
+        }
+    },
+    "symbolic": {
+        "level": 10,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 5
+            },
+            "2p": {
+                "7": 2
+            }
+        }
+    },
+    "The end of my spiritually": {
+        "level": 8,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {
+                "7": 2,
+                "6": 3,
+                "1,6": 1
+            }
+        }
+    },
+    "THE SAFARI": {
+        "level": 10,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 29
+            },
+            "2p": {
+                "7": 17
+            }
+        }
+    },
+    "tablets": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 6,
+                "2,4": 2
+            },
+            "2p": {
+                "1": 6,
+                "2": 2,
+                "7": 2
+            }
+        }
+    },
+    "Take It Easy": {
+        "level": 11,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 3,
+                "3": 1
+            },
+            "2p": {
+                "7": 1,
+                "1": 1
+            }
+        }
+    },
+    "TAKE ON ME": {
+        "level": 6,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 8
+            },
+            "2p": {}
+        }
+    },
+    "The Theme from \"Flo-jack\"": {
+        "level": 3,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "5": 6
+            },
+            "2p": {
+                "5": 6,
+                "1": 1
+            }
+        }
+    },
+    "THANK YOU FOR PLAYING": {
+        "level": 8,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "THE CUBE": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {},
+            "2p": {
+                "2": 1
+            }
+        }
+    },
+    "The Hope of Tomorrow": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {},
+            "2p": {
+                "3": 1
+            }
+        }
+    },
+    "The Rhyme Brokers": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1,
+                "7": 4
+            },
+            "2p": {
+                "7": 5
+            }
+        }
+    },
+    "This is Love": {
+        "level": 8,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {
+                "6": 1
+            }
+        }
+    },
+    "thunder HOUSE NATION Remix": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 6
+            },
+            "2p": {
+                "7": 2
+            }
+        }
+    },
+    "thunder": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 3,
+                "1,4,7": 1
+            },
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "Tomorrow Perfume": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 4,
+                "4": 1,
+                "6": 1
+            },
+            "2p": {
+                "2": 1
+            }
+        }
+    },
+    "THE SHINING POLARIS": {
+        "level": 8,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "7": 1,
+                "1": 5,
+                "1,3": 1
+            },
+            "2p": {
+                "7": 2
+            }
+        }
+    },
+    "traces": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 4,
+                "1,5": 1,
+                "1,3": 1
+            },
+            "2p": {}
+        }
+    },
+    "TRIBAL MASTER": {
+        "level": 5,
+        "diff": "n",
+        "adjoin_keys": {
+            "1p": {
+                "3": 1
+            },
+            "2p": {
+                "1": 1
+            }
+        }
+    },
+    "tripping contact": {
+        "level": 10,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {
+                "7": 3
+            }
+        }
+    },
+    "Turning the motor over": {
+        "level": 6,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "THE BIG VOYAGER -INFINITE PRAYER REINTERPRETATION-": {
+        "level": 9,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 12,
+                "1,3": 1
+            },
+            "2p": {
+                "7": 6,
+                "5": 2,
+                "6,7": 5
+            }
+        }
+    },
+    "Twelfth Style": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "Ubiquitous Fantastic Ride": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 3
+            },
+            "2p": {
+                "7": 2
+            }
+        }
+    },
+    "u gotta groove -extend joy style-": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1,3": 1
+            },
+            "2p": {}
+        }
+    },
+    "Under Construction": {
+        "level": 8,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 5
+            },
+            "2p": {}
+        }
+    },
+    "Usual Days-remix": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 17,
+                "2": 4,
+                "1,2": 1
+            },
+            "2p": {
+                "6": 2,
+                "7": 4
+            }
+        }
+    },
+    "V35": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 9
+            },
+            "2p": {
+                "7": 5
+            }
+        }
+    },
+    "V": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 2
+            },
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "VANESSA": {
+        "level": 12,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "6": 1
+            },
+            "2p": {
+                "1,5": 1
+            }
+        }
+    },
+    "vault of heaven": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 4
+            },
+            "2p": {
+                "7": 3
+            }
+        }
+    },
+    "Vienna": {
+        "level": 6,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "6": 1,
+                "1": 1,
+                "2": 1
+            },
+            "2p": {}
+        }
+    },
+    "VJ ARMY": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1,5": 1,
+                "2": 2,
+                "1": 7,
+                "6": 1,
+                "3": 1,
+                "7": 2
+            },
+            "2p": {
+                "1": 1,
+                "7": 3,
+                "6": 2,
+                "5": 2
+            }
+        }
+    },
+    "Voltage(feat. Hidemaru)": {
+        "level": 11,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1,5": 2,
+                "1": 3,
+                "1,7": 5,
+                "6": 3,
+                "1,3": 1
+            },
+            "2p": {
+                "4": 3,
+                "3": 2,
+                "2": 2
+            }
+        }
+    },
+    "Votum stellarum": {
+        "level": 11,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "We are Disっ娘よっつ打ち命": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 3
+            },
+            "2p": {}
+        }
+    },
+    "Winning Eleven9 Theme(IIDX EDITION)": {
+        "level": 7,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "3": 1
+            },
+            "2p": {}
+        }
+    },
+    "wish": {
+        "level": 8,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 2
+            },
+            "2p": {}
+        }
+    },
+    "WISH(EUROBEAT MIX)": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 19
+            },
+            "2p": {}
+        }
+    },
+    "Wanna Party?": {
+        "level": 9,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "Wonder Bullfighter": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 3
+            },
+            "2p": {
+                "7": 5,
+                "1": 1
+            }
+        }
+    },
+    "Wow Wow 70's": {
+        "level": 7,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {}
+        }
+    },
+    "World Wide Love": {
+        "level": 5,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {},
+            "2p": {
+                "5": 2,
+                "7": 1
+            }
+        }
+    },
+    "X-rated": {
+        "level": 10,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "2": 1
+            },
+            "2p": {}
+        }
+    },
+    "Y31": {
+        "level": 11,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1": 3
+            },
+            "2p": {
+                "6": 1,
+                "7": 2
+            }
+        }
+    },
+    "Y&amp;Co. is dead or alive": {
+        "level": 10,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {},
+            "2p": {
+                "1,4": 1
+            }
+        }
+    },
+    "YESTERDAY": {
+        "level": 8,
+        "diff": "a",
+        "adjoin_keys": {
+            "1p": {
+                "1,6": 1
+            },
+            "2p": {}
+        }
+    },
+    "Your Body": {
+        "level": 7,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {
+                "1": 1
+            },
+            "2p": {
+                "7": 1
+            }
+        }
+    },
+    "YOU MAKE ME": {
+        "level": 4,
+        "diff": "h",
+        "adjoin_keys": {
+            "1p": {},
+            "2p": {
+                "3": 1
+            }
+        }
+    }
+}
