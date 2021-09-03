@@ -18,7 +18,7 @@ th.header {
   padding: 10px
 }
 th.header.title {
-  width: 350px;
+  width: 370px;
 }
 th.header.diff {
   width: 100px;
@@ -37,6 +37,7 @@ summary {
 
 th.sc_count {
   padding: 3px 10px;
+  /* width: 20px; */
   background: #eeeeee;
   vertical-align: top;
   color: #626d71;
@@ -44,13 +45,15 @@ th.sc_count {
   border-width: thin;
   border-color: #cdcdc0;
 }
-td.sc_count {/*table内のtdに対して*/
+td.sc_count {
   padding: 3px 10px;
+  /* width: 20px; */
   vertical-align: top;
   border-style: solid;
   border-width: thin;
   border-color: #cdcdc0;
 }
+
 span {
   padding: 2px;
   margin: 2px;
@@ -85,17 +88,19 @@ table {
   /* border-style: solid None solid None; */
   border-collapse: collapse;
   table-layout: fixed;
-  width: 680px;
+  width: 700px;
+  overflow-x: scroll;
 }
 
 table.sc_count {
   vertical-align: top;
   margin-top: 10px;
   border-collapse: collapse;
+  width: auto;
 }
 
 div.desc {
-  margin: 20px 20px 20px 20;
+  margin: 20px 20px 20px 20px;
   margin-top: 2px;
   text-indent: 0px
 }
