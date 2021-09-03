@@ -85,6 +85,7 @@ table {
   /* border-style: solid None solid None; */
   border-collapse: collapse;
   table-layout: fixed;
+  width: 680px;
 }
 
 table.sc_count {
