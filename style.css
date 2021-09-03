@@ -1,0 +1,105 @@
+tr {
+  border-style: solid None solid None;
+  border-width: thin;
+  border-color: #cdcdc0
+}
+td {
+  padding: 10px;
+  vertical-align: top;
+}
+
+tr.header {
+  background: #626d71;/*背景色*/
+  vertical-align: top;
+  text-align: left;
+  color: #eeeeee;
+}
+th.header {
+  padding: 10px
+}
+th.header.title {
+  width: 350px;
+}
+th.header.diff {
+  width: 100px;
+}
+th.header.lv {
+  width: 30px;
+}
+th.header.type {
+  width: 200px;
+}
+
+summary {
+  cursor: pointer;
+  display: block;
+}
+
+th.sc_count {
+  padding: 3px 10px;
+  background: #eeeeee;
+  vertical-align: top;
+  color: #626d71;
+  border-style: solid;
+  border-width: thin;
+  border-color: #cdcdc0;
+}
+td.sc_count {/*table内のtdに対して*/
+  padding: 3px 10px;
+  vertical-align: top;
+  border-style: solid;
+  border-width: thin;
+  border-color: #cdcdc0;
+}
+span {
+  padding: 2px;
+  margin: 2px;
+}
+span.muri {
+  background: #af4425;
+  color: #f0f0f0;
+}
+span.mucha {
+  background: #fa812f;
+  color: #f0f0f0;
+}
+span.adjoin {
+  background: #5562ac;
+  color: #f0f0f0;
+}
+span.nml {
+  color: #50B1EF;
+}
+span.hpr {
+  color: #E0CC00;
+}
+span.ant {
+  color: #EA0000;
+}
+span.leg {
+  color: #92165E;
+}
+
+table {
+  vertical-align: top;
+  /* border-style: solid None solid None; */
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+
+table.sc_count {
+  vertical-align: top;
+  margin-top: 10px;
+  border-collapse: collapse;
+}
+
+div.desc {
+  margin: 20px 20px 20px 20;
+  margin-top: 2px;
+  text-indent: 0px
+}
+
+ul li {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
