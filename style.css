@@ -18,7 +18,7 @@ th.header {
   padding: 10px
 }
 th.header.title {
-  width: 370px;
+  width: 410px;
 }
 th.header.diff {
   width: 100px;
@@ -27,7 +27,7 @@ th.header.lv {
   width: 30px;
 }
 th.header.type {
-  width: 200px;
+  width: 180px;
 }
 
 summary {
@@ -88,7 +88,7 @@ table {
   /* border-style: solid None solid None; */
   border-collapse: collapse;
   table-layout: fixed;
-  width: 700px;
+  width: 720px;
   overflow-x: scroll;
 }
 
