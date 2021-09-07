@@ -14,6 +14,10 @@ tr.header {
   text-align: left;
   color: #eeeeee;
 }
+tr.del {
+  background: #eeeeee;
+}
+
 th.header {
   padding: 10px
 }
