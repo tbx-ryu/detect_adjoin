@@ -87,6 +87,10 @@ span.leg {
   color: #92165E;
 }
 
+article.main_article {
+  max-width: 720px;
+  margin: 0 auto;
+}
 img.def {
   width: 500px;
 }
