@@ -87,6 +87,10 @@ span.leg {
   color: #92165E;
 }
 
+img.def {
+  width: 500px;
+}
+
 table {
   vertical-align: top;
   /* border-style: solid None solid None; */
