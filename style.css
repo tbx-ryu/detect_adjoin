@@ -16,6 +16,11 @@ tr.header {
 }
 tr.del {
   background: #eeeeee;
+  display: none;
+}
+tr.showDel {
+  background: #eeeeee;
+  display: table-row;
 }
 
 th.header {
@@ -62,7 +67,7 @@ span {
   padding: 2px;
   margin: 2px;
 }
-span.muri {
+span.muri, span.muri_num_class {
   background: #af4425;
   color: #f0f0f0;
 }
@@ -70,7 +75,7 @@ span.mucha {
   background: #fa812f;
   color: #f0f0f0;
 }
-span.adjoin {
+span.adjoin, span.adjoin_num_class{
   background: #5562ac;
   color: #f0f0f0;
 }

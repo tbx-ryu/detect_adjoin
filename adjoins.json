@@ -281,6 +281,20 @@
     "subtitle": ""
   },
   {
+    "title": "808monkey",
+    "level": 9,
+    "diff": "a",
+    "adjoin_keys": {
+      "1p": {},
+      "2p": {
+        "1": 1
+      }
+    },
+    "judge": "–³—M",
+    "acin": true,
+    "subtitle": ""
+  },
+  {
     "title": "–q_“J‚«‚Ä",
     "level": 8,
     "diff": "h",
@@ -1190,12 +1204,12 @@
     "diff": "l",
     "adjoin_keys": {
       "1p": {
-        "1": 4,
+        "1": 9,
         "2": 5
       },
       "2p": {
         "6": 3,
-        "7": 3
+        "7": 6
       }
     },
     "judge": "—×ÚM",
@@ -1310,6 +1324,22 @@
     "subtitle": ""
   },
   {
+    "title": "‚½‚©‚ç‚à‚Ì",
+    "level": 11,
+    "diff": "l",
+    "adjoin_keys": {
+      "1p": {
+        "1": 9
+      },
+      "2p": {
+        "7": 3
+      }
+    },
+    "judge": "—×ÚM",
+    "acin": false,
+    "subtitle": ""
+  },
+  {
     "title": "“V‘‚ÌƒLƒbƒX`D.J.TAKA'S STYLE`",
     "level": 6,
     "diff": "h",
@@ -1359,7 +1389,7 @@
       }
     },
     "judge": "—×ÚM, –³—M",
-    "acin": true,
+    "acin": false,
     "subtitle": ""
   },
   {
@@ -1379,7 +1409,7 @@
       }
     },
     "judge": "—×ÚM, –³—M",
-    "acin": true,
+    "acin": false,
     "subtitle": ""
   },
   {
@@ -1532,20 +1562,6 @@
     "title": "ABSOLUTE",
     "level": 11,
     "diff": "a",
-    "adjoin_keys": {
-      "1p": {},
-      "2p": {
-        "7": 3
-      }
-    },
-    "judge": "—×ÚM",
-    "acin": true,
-    "subtitle": ""
-  },
-  {
-    "title": "ABSOLUTE",
-    "level": 11,
-    "diff": "l",
     "adjoin_keys": {
       "1p": {},
       "2p": {
@@ -2669,32 +2685,12 @@
         "1,6": 1
       },
       "2p": {
-        "7": 7,
+        "7": 6,
         "6": 2,
         "1": 1
       }
     },
-    "judge": "–³’ƒM, —×ÚM, –³—M",
-    "acin": true,
-    "subtitle": ""
-  },
-  {
-    "title": "Buffalo",
-    "level": 11,
-    "diff": "l",
-    "adjoin_keys": {
-      "1p": {
-        "1": 6,
-        "1,3": 1,
-        "1,6": 1
-      },
-      "2p": {
-        "7": 7,
-        "6": 2,
-        "1": 1
-      }
-    },
-    "judge": "–³’ƒM, —×ÚM, –³—M",
+    "judge": "—×ÚM, –³—M",
     "acin": true,
     "subtitle": ""
   },
@@ -3053,6 +3049,20 @@
     },
     "judge": "—×ÚM",
     "acin": true,
+    "subtitle": ""
+  },
+  {
+    "title": "CELEBRATE NITE",
+    "level": 10,
+    "diff": "l",
+    "adjoin_keys": {
+      "1p": {
+        "1": 6
+      },
+      "2p": {}
+    },
+    "judge": "—×ÚM",
+    "acin": false,
     "subtitle": ""
   },
   {
@@ -3448,22 +3458,6 @@
     "title": "CONTRACT",
     "level": 12,
     "diff": "a",
-    "adjoin_keys": {
-      "1p": {
-        "1": 32
-      },
-      "2p": {
-        "7": 22
-      }
-    },
-    "judge": "—×ÚM",
-    "acin": true,
-    "subtitle": ""
-  },
-  {
-    "title": "CONTRACT",
-    "level": 12,
-    "diff": "l",
     "adjoin_keys": {
       "1p": {
         "1": 32
@@ -4258,42 +4252,6 @@
     "subtitle": ""
   },
   {
-    "title": "DUE TOMORROW",
-    "level": 6,
-    "diff": "n",
-    "adjoin_keys": {
-      "1p": {},
-      "2p": {}
-    },
-    "judge": "–³’ƒM",
-    "acin": true,
-    "subtitle": ""
-  },
-  {
-    "title": "DUE TOMORROW",
-    "level": 10,
-    "diff": "h",
-    "adjoin_keys": {
-      "1p": {},
-      "2p": {}
-    },
-    "judge": "–³’ƒM",
-    "acin": true,
-    "subtitle": ""
-  },
-  {
-    "title": "DUE TOMORROW",
-    "level": 12,
-    "diff": "a",
-    "adjoin_keys": {
-      "1p": {},
-      "2p": {}
-    },
-    "judge": "–³’ƒM",
-    "acin": true,
-    "subtitle": ""
-  },
-  {
     "title": "DUNE",
     "level": 6,
     "diff": "n",
@@ -5059,6 +5017,18 @@
     "subtitle": ""
   },
   {
+    "title": "four pieces of heaven",
+    "level": 12,
+    "diff": "l",
+    "adjoin_keys": {
+      "1p": {},
+      "2p": {}
+    },
+    "judge": "–³’ƒM",
+    "acin": true,
+    "subtitle": ""
+  },
+  {
     "title": "Frozen Ray(original mix)",
     "level": 9,
     "diff": "h",
@@ -5257,20 +5227,6 @@
     "title": "Ganymede",
     "level": 12,
     "diff": "a",
-    "adjoin_keys": {
-      "1p": {},
-      "2p": {
-        "7": 4
-      }
-    },
-    "judge": "—×ÚM",
-    "acin": true,
-    "subtitle": ""
-  },
-  {
-    "title": "Ganymede",
-    "level": 12,
-    "diff": "l",
     "adjoin_keys": {
       "1p": {},
       "2p": {
@@ -5941,6 +5897,24 @@
     },
     "judge": "—×ÚM, –³—M",
     "acin": false,
+    "subtitle": ""
+  },
+  {
+    "title": "GREEN EYES",
+    "level": 11,
+    "diff": "a",
+    "adjoin_keys": {
+      "1p": {
+        "2": 2,
+        "1": 2
+      },
+      "2p": {
+        "6": 1,
+        "7": 1
+      }
+    },
+    "judge": "—×ÚM",
+    "acin": true,
     "subtitle": ""
   },
   {
@@ -7198,7 +7172,7 @@
     },
     "judge": "—×ÚM, –³—M",
     "acin": false,
-    "subtitle": ""
+    "subtitle": "(CS6th)"
   },
   {
     "title": "L'amour et la libert&eacute;",
@@ -7213,7 +7187,7 @@
     },
     "judge": "—×ÚM, –³—M",
     "acin": false,
-    "subtitle": ""
+    "subtitle": "(CS6th)"
   },
   {
     "title": "Last Message",
@@ -7587,7 +7561,7 @@
       }
     },
     "judge": "—×ÚM",
-    "acin": false,
+    "acin": true,
     "subtitle": ""
   },
   {
@@ -8366,7 +8340,7 @@
     },
     "judge": "—×ÚM",
     "acin": false,
-    "subtitle": ""
+    "subtitle": "(CS7th)"
   },
   {
     "title": "MAX 300",
@@ -8384,6 +8358,41 @@
     },
     "judge": "—×ÚM, –³—M",
     "acin": false,
+    "subtitle": "(CS7th)"
+  },
+  {
+    "title": "MAX 300",
+    "level": 7,
+    "diff": "n",
+    "adjoin_keys": {
+      "1p": {
+        "1": 2
+      },
+      "2p": {
+        "5": 1,
+        "7": 1
+      }
+    },
+    "judge": "—×ÚM",
+    "acin": true,
+    "subtitle": ""
+  },
+  {
+    "title": "MAX 300",
+    "level": 10,
+    "diff": "h",
+    "adjoin_keys": {
+      "1p": {
+        "1": 16,
+        "1,3,7": 1,
+        "1,7": 1
+      },
+      "2p": {
+        "7": 3
+      }
+    },
+    "judge": "—×ÚM, –³—M",
+    "acin": true,
     "subtitle": ""
   },
   {
@@ -8532,7 +8541,7 @@
     },
     "judge": "—×ÚM",
     "acin": false,
-    "subtitle": ""
+    "subtitle": "(CS HAPPY SKY)"
   },
   {
     "title": "minimalian",
@@ -8829,8 +8838,8 @@
       }
     },
     "judge": "—×ÚM",
-    "acin": true,
-    "subtitle": ""
+    "acin": false,
+    "subtitle": "(CS IIDX RED)"
   },
   {
     "title": "NEBULA GRASPER",
@@ -8845,8 +8854,8 @@
       "2p": {}
     },
     "judge": "—×ÚM, –³—M",
-    "acin": true,
-    "subtitle": ""
+    "acin": false,
+    "subtitle": "(CS IIDX RED)"
   },
   {
     "title": "NEBULA GRASPER",
@@ -8861,8 +8870,8 @@
       }
     },
     "judge": "—×ÚM",
-    "acin": true,
-    "subtitle": ""
+    "acin": false,
+    "subtitle": "(CS IIDX RED)"
   },
   {
     "title": "NEBULA GRASPER",
@@ -8912,6 +8921,55 @@
     "judge": "—×ÚM",
     "acin": false,
     "subtitle": "(CS8th)"
+  },
+  {
+    "title": "NEBULA GRASPER",
+    "level": 7,
+    "diff": "n",
+    "adjoin_keys": {
+      "1p": {
+        "1": 13
+      },
+      "2p": {
+        "7": 8,
+        "5": 1
+      }
+    },
+    "judge": "—×ÚM",
+    "acin": true,
+    "subtitle": ""
+  },
+  {
+    "title": "NEBULA GRASPER",
+    "level": 9,
+    "diff": "h",
+    "adjoin_keys": {
+      "1p": {
+        "1": 9,
+        "2": 1,
+        "5": 1
+      },
+      "2p": {}
+    },
+    "judge": "—×ÚM, –³—M",
+    "acin": true,
+    "subtitle": ""
+  },
+  {
+    "title": "NEBULA GRASPER",
+    "level": 11,
+    "diff": "a",
+    "adjoin_keys": {
+      "1p": {
+        "1": 17
+      },
+      "2p": {
+        "7": 12
+      }
+    },
+    "judge": "—×ÚM",
+    "acin": true,
+    "subtitle": ""
   },
   {
     "title": "NEMESIS",
@@ -9713,7 +9771,7 @@
     "diff": "l",
     "adjoin_keys": {
       "1p": {
-        "1": 4
+        "1": 3
       },
       "2p": {}
     },
@@ -10401,22 +10459,6 @@
     "subtitle": ""
   },
   {
-    "title": "RED ZONE",
-    "level": 12,
-    "diff": "l",
-    "adjoin_keys": {
-      "1p": {
-        "1": 2
-      },
-      "2p": {
-        "7": 1
-      }
-    },
-    "judge": "—×ÚM",
-    "acin": true,
-    "subtitle": ""
-  },
-  {
     "title": "Reflection Into the EDEN",
     "level": 7,
     "diff": "h",
@@ -10427,7 +10469,7 @@
       "2p": {}
     },
     "judge": "—×ÚM",
-    "acin": false,
+    "acin": true,
     "subtitle": ""
   },
   {
@@ -10443,7 +10485,7 @@
       }
     },
     "judge": "—×ÚM",
-    "acin": false,
+    "acin": true,
     "subtitle": ""
   },
   {
@@ -10542,20 +10584,6 @@
     "title": "RIDE ON THE LIGHT(HI GREAT MIX)",
     "level": 9,
     "diff": "a",
-    "adjoin_keys": {
-      "1p": {
-        "1": 7
-      },
-      "2p": {}
-    },
-    "judge": "—×ÚM",
-    "acin": true,
-    "subtitle": ""
-  },
-  {
-    "title": "RIDE ON THE LIGHT(HI GREAT MIX)",
-    "level": 10,
-    "diff": "l",
     "adjoin_keys": {
       "1p": {
         "1": 7
@@ -10989,6 +11017,20 @@
     "subtitle": ""
   },
   {
+    "title": "Scripted ConnectionË A mix",
+    "level": 12,
+    "diff": "l",
+    "adjoin_keys": {
+      "1p": {
+        "1": 1
+      },
+      "2p": {}
+    },
+    "judge": "—×ÚM",
+    "acin": true,
+    "subtitle": ""
+  },
+  {
     "title": "Scripted ConnectionË H mix",
     "level": 10,
     "diff": "h",
@@ -11268,7 +11310,7 @@
   },
   {
     "title": "Silhoette of My Mind",
-    "level": 4,
+    "level": 7,
     "diff": "h",
     "adjoin_keys": {
       "1p": {
@@ -11504,7 +11546,7 @@
   },
   {
     "title": "Somebody Like You",
-    "level": 6,
+    "level": 8,
     "diff": "h",
     "adjoin_keys": {
       "1p": {
@@ -11514,11 +11556,11 @@
     },
     "judge": "—×ÚM",
     "acin": false,
-    "subtitle": ""
+    "subtitle": "(CS7th)"
   },
   {
     "title": "Somebody Like You",
-    "level": 8,
+    "level": 9,
     "diff": "a",
     "adjoin_keys": {
       "1p": {
@@ -11529,7 +11571,7 @@
     },
     "judge": "—×ÚM, –³—M",
     "acin": false,
-    "subtitle": ""
+    "subtitle": "(CS7th)"
   },
   {
     "title": "sometime",
@@ -11937,6 +11979,20 @@
       }
     },
     "judge": "—×ÚM, –³—M",
+    "acin": true,
+    "subtitle": ""
+  },
+  {
+    "title": "spiral galaxy",
+    "level": 12,
+    "diff": "l",
+    "adjoin_keys": {
+      "1p": {
+        "1": 1
+      },
+      "2p": {}
+    },
+    "judge": "—×ÚM",
     "acin": true,
     "subtitle": ""
   },
@@ -13096,18 +13152,6 @@
     "subtitle": ""
   },
   {
-    "title": "TRANOID",
-    "level": 12,
-    "diff": "l",
-    "adjoin_keys": {
-      "1p": {},
-      "2p": {}
-    },
-    "judge": "–³’ƒM",
-    "acin": true,
-    "subtitle": ""
-  },
-  {
     "title": "TRIBAL MASTER",
     "level": 5,
     "diff": "n",
@@ -13210,20 +13254,6 @@
     "title": "Twelfth Style",
     "level": 9,
     "diff": "a",
-    "adjoin_keys": {
-      "1p": {
-        "1": 1
-      },
-      "2p": {}
-    },
-    "judge": "—×ÚM",
-    "acin": true,
-    "subtitle": ""
-  },
-  {
-    "title": "Twelfth Style",
-    "level": 12,
-    "diff": "l",
     "adjoin_keys": {
       "1p": {
         "1": 1
@@ -13424,22 +13454,6 @@
     "title": "VANESSA",
     "level": 12,
     "diff": "a",
-    "adjoin_keys": {
-      "1p": {
-        "6": 1
-      },
-      "2p": {
-        "1,5": 1
-      }
-    },
-    "judge": "–³—M",
-    "acin": true,
-    "subtitle": ""
-  },
-  {
-    "title": "VANESSA",
-    "level": 12,
-    "diff": "l",
     "adjoin_keys": {
       "1p": {
         "6": 1
@@ -13687,34 +13701,6 @@
     "subtitle": ""
   },
   {
-    "title": "Wanna Party?",
-    "level": 9,
-    "diff": "a",
-    "adjoin_keys": {
-      "1p": {
-        "1": 1
-      },
-      "2p": {}
-    },
-    "judge": "—×ÚM",
-    "acin": true,
-    "subtitle": ""
-  },
-  {
-    "title": "Wanna Party?",
-    "level": 12,
-    "diff": "l",
-    "adjoin_keys": {
-      "1p": {
-        "1": 1
-      },
-      "2p": {}
-    },
-    "judge": "—×ÚM",
-    "acin": true,
-    "subtitle": ""
-  },
-  {
     "title": "Wonder Bullfighter",
     "level": 10,
     "diff": "a",
@@ -13822,20 +13808,6 @@
     "judge": "—×ÚM",
     "acin": false,
     "subtitle": ""
-  },
-  {
-    "title": "Y&amp;Co. is dead or alive",
-    "level": 10,
-    "diff": "h",
-    "adjoin_keys": {
-      "1p": {},
-      "2p": {
-        "1,4": 1
-      }
-    },
-    "judge": "–³—M",
-    "acin": false,
-    "subtitle": "(CS EMPRESS)"
   },
   {
     "title": "YESTERDAY",

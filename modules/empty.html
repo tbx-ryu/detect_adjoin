@@ -34,7 +34,7 @@
     </ul>
 
   </p>
-
+  <input type="checkbox" id="displayDeletedSongs" onclick="">削除曲を表示する
   <!-- python_split -->
 
   </article>
@@ -45,3 +45,152 @@
   </body>
 
 </html>
+
+<script>
+  initialize();
+
+  function initialize() {
+    const table = document.querySelector('table');
+    const dispDel = document.getElementById("displayDeletedSongs");
+    dispDel.addEventListener("change", switchDisplay);
+    document.querySelectorAll('th.header').forEach(th => th.onclick = sortRows);
+    document.querySelector('th').classList.add('sort-asc');
+  }
+
+  function switchDisplay() {
+    console.log("hoge")
+    if (this.checked) {
+      document.querySelectorAll("tr.del").forEach(tr => tr.classList.add("showDel"));
+    } else {
+      document.querySelectorAll("tr.del").forEach(tr => tr.classList.remove("showDel"));
+    }
+  }
+
+  function filterRows() {
+    const keyword = document.querySelector('input').value;
+    const regex = new RegExp(keyword, 'i');
+    const table = document.querySelector('table');
+    for (let i = 1; i < table.rows.length; i++) {
+      const row = table.rows[i];
+      row.style.display = 'none';
+      for (let j = 0; j < row.cells.length; j++) {
+        if (row.cells[j].textContent.match(regex)) {
+          row.style.display = 'table-row';
+          break;
+        }
+      }
+    }
+  }
+
+  function resetFilter() {
+    document.querySelector('input').value = '';
+    filterRows();
+  }
+
+  function sortRows() {
+    const table = document.querySelector("table");
+    const records = [];
+    for (let i = 1; i < table.rows.length; i++) {
+      const record = {};
+      record.row = table.rows[i];
+      record.key = table.rows[i].cells[this.cellIndex].textContent;
+      records.push(record);
+    }
+    if (this.classList.contains('sort-asc')) {
+      records.sort(compareKeysReverseCB(this.innerText));
+      purgeSortMarker();
+      this.classList.add('sort-desc');
+    } else {
+      records.sort(compareKeysCB(this.innerText));
+      purgeSortMarker();
+      this.classList.add('sort-asc');
+    }
+    for (let i = 0; i < records.length; i++) {
+      table.appendChild(records[i].row);
+    }
+  }
+
+  function purgeSortMarker() {
+    document.querySelectorAll('th').forEach(th => {
+      th.classList.remove('sort-asc');
+      th.classList.remove('sort-desc');
+    });
+  }
+
+  function compareKeysCB(colname) {
+    if (colname == "Title") return compareKeys;
+    else if (colname == "Difficulty") return compareKeysDiff;
+    else if (colname == "☆") return compareKeysNum;
+    else if (colname == "Type") return compareKeysType;
+  }
+  
+  function compareKeys(a, b) {
+    if (a.key < b.key) return -1;
+    if (a.key > b.key) return 1;
+    return 0;
+  }
+
+  function compareKeysDiff(a, b) {
+    const diff2num = {"Normal": 1, "Hyper": 2, "Another": 3, "Leggendaria": 4}
+    if (diff2num[a.key] < diff2num[b.key]) return -1;
+    if (diff2num[a.key] > diff2num[b.key]) return 1;
+    return 0;
+  }
+
+  function compareKeysNum(a, b) {
+    if (parseInt(a.key) < parseInt(b.key)) return -1;
+    if (parseInt(a.key) > parseInt(b.key)) return 1;
+    return 0;
+  }
+
+  function keySum(row) {
+    let keysum = 0;
+    try {
+      for (let jj = 0; jj < row.cells[3].children[0].children[1].rows.length; jj++) {
+        let colnum = row.cells[3].children[0].children[1].rows[jj].cells.length;
+        keysum += parseInt(row.cells[3].children[0].children[1].rows[jj].cells[colnum-1].textContent.slice(0,-1));
+      }
+      return keysum;
+    } catch (error) {
+      return 0;
+    }
+  }
+
+  function compareKeysType(a, b) {
+    if (keySum(a.row) < keySum(b.row)) return -1;
+    if (keySum(a.row) > keySum(b.row)) return 1;
+    return 0;
+  }
+
+  function compareKeysReverseCB(colname) {
+    if (colname == "Title") return compareKeysReverse;
+    else if (colname == "Difficulty") return compareKeysReverseDiff;
+    else if (colname == "☆") return compareKeysReverseNum;
+    else if (colname == "Type") return compareKeysReverseType;
+  }
+
+  function compareKeysReverse(a, b) {
+    if (a.key < b.key) return 1;
+    if (a.key > b.key) return -1;
+    return 0;
+  }
+
+  function compareKeysReverseDiff(a, b) {
+    const diff2num = {"Normal": 1, "Hyper": 2, "Another": 3, "Leggendaria": 4}
+    if (diff2num[a.key] < diff2num[b.key]) return 1;
+    if (diff2num[a.key] > diff2num[b.key]) return -1;
+    return 0;
+  }
+
+  function compareKeysReverseNum(a, b) {
+    if (parseInt(a.key) < parseInt(b.key)) return 1;
+    if (parseInt(a.key) > parseInt(b.key)) return -1;
+    return 0;
+  }
+  
+  function compareKeysReverseType(a, b) {
+    if (keySum(a.row) < keySum(b.row)) return 1;
+    if (keySum(a.row) > keySum(b.row)) return -1;
+    return 0;
+  }
+</script>

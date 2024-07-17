@@ -48,9 +48,10 @@ def split_dict(org_dict, split_rate=0.8):
         tail_dict[key] = org_dict[key]
     return head_dict, tail_dict
 
-def parsePHP(phppath):
-    enc = checkEncoding(phppath)
-    if enc != "utf-8": enc = "shift_jis"
+def parsePHP(phppath, enc=None):
+    if enc is None:
+        enc = checkEncoding(phppath)
+        if enc != "utf-8": enc = "shift_jis"
     with open(phppath, "r", encoding=str(enc)) as f:
         soup = BeautifulSoup(f, "lxml")
     return soup
@@ -81,7 +82,7 @@ def stop_watch(func):
     return wrapper
 
 def get_unofficial_diff(phppath):
-    body = parsePHP(phppath)
+    body = parsePHP(phppath, enc="utf-8")
     unofficial_diff = {}
     for line in body.table.find_all("tr"):
         if not line.find_all("td"): continue
@@ -96,15 +97,31 @@ def get_unofficial_diff(phppath):
     return unofficial_diff
 
 def get_tables(titletbl_path, actbl_path):
-    with open(titletbl_path, "r", encoding=checkEncoding(titletbl_path)) as f:
+    with open(titletbl_path, "r", encoding="cp932") as f:
         jstxt = f.read()
     jstxt = re.sub(".fontcolor\(.*\)", "", jstxt)
-    with open(actbl_path, "r", encoding="shift_jis") as f:
+    with open(actbl_path, "r", encoding="cp932") as f:
         jstxt += f.read()
     titletbl, actbl = {}, {}
     context = js2py.EvalJs({"titletbl":titletbl, "actbl":actbl})
     context.execute(jstxt)
     return context.titletbl, context.actbl
+
+def get_keys(titletbl, actbl, difficulty, dp=True):
+    ret_list = []
+    for fbasename in list(titletbl):
+        diffs = {}
+        ver, numNotes, opt, genre, arist, title, *_ = titletbl[fbasename]
+        try:
+            if dp: # dp
+                diffs["n"], diffs["h"], diffs["a"], diffs["l"] = list(actbl[fbasename])[15:22:2]
+            else: # sp
+                diffs["n"], diffs["h"], diffs["a"], diffs["l"] = list(actbl[fbasename])[5:12:2]
+        except:
+            continue
+        for_add = [[fbasename, diffs[x], x, ver] for x in difficulty if diffs[x] > 0]
+        ret_list.extend(for_add)
+    return ret_list
 
 if __name__ == "__main__":
     pdb.set_trace()
