@@ -49,6 +49,7 @@
 </html>
 
 <script>
+  ADJOIN_IDX = 4;
   initialize();
 
   function initialize() {
@@ -56,7 +57,7 @@
     const dispDel = document.getElementById("displayDeletedSongs");
     dispDel.addEventListener("change", switchDisplay);
     document.querySelectorAll('th.header').forEach(th => th.onclick = sortRows);
-    document.querySelector('th').classList.add('sort-asc');
+    document.querySelector('th.title').classList.add('sort-asc');
   }
 
   function switchDisplay() {
@@ -122,13 +123,13 @@
   function compareKeysCB(colname) {
     if (colname == "Title") return compareKeys;
     else if (colname == "Difficulty") return compareKeysDiff;
-    else if (colname == "☆") return compareKeysNum;
+    else if (colname == "☆" || colname == "Ver") return compareKeysNum;
     else if (colname == "Type") return compareKeysType;
   }
   
   function compareKeys(a, b) {
-    if (a.key < b.key) return -1;
-    if (a.key > b.key) return 1;
+    if (a.key.toLowerCase() < b.key.toLowerCase()) return -1;
+    if (a.key.toLowerCase() > b.key.toLowerCase()) return 1;
     return 0;
   }
 
@@ -140,17 +141,19 @@
   }
 
   function compareKeysNum(a, b) {
-    if (parseInt(a.key) < parseInt(b.key)) return -1;
-    if (parseInt(a.key) > parseInt(b.key)) return 1;
+    if (isNaN(a.key)) a.key = 1.5;
+    if (isNaN(b.key)) b.key = 1.5;
+    if (parseFloat(a.key) < parseFloat(b.key)) return -1;
+    if (parseFloat(a.key) > parseFloat(b.key)) return 1;
     return 0;
   }
 
   function keySum(row) {
     let keysum = 0;
     try {
-      for (let jj = 0; jj < row.cells[3].children[0].children[1].rows.length; jj++) {
-        let colnum = row.cells[3].children[0].children[1].rows[jj].cells.length;
-        keysum += parseInt(row.cells[3].children[0].children[1].rows[jj].cells[colnum-1].textContent.slice(0,-1));
+      for (let jj = 0; jj < row.cells[ADJOIN_IDX].children[0].children[1].rows.length; jj++) {
+        let colnum = row.cells[ADJOIN_IDX].children[0].children[1].rows[jj].cells.length;
+        keysum += parseInt(row.cells[ADJOIN_IDX].children[0].children[1].rows[jj].cells[colnum-1].textContent.slice(0,-1));
       }
       return keysum;
     } catch (error) {
@@ -167,13 +170,13 @@
   function compareKeysReverseCB(colname) {
     if (colname == "Title") return compareKeysReverse;
     else if (colname == "Difficulty") return compareKeysReverseDiff;
-    else if (colname == "☆") return compareKeysReverseNum;
+    else if (colname == "☆" || colname == "Ver") return compareKeysReverseNum;
     else if (colname == "Type") return compareKeysReverseType;
   }
 
   function compareKeysReverse(a, b) {
-    if (a.key < b.key) return 1;
-    if (a.key > b.key) return -1;
+    if (a.key.toLowerCase() < b.key.toLowerCase()) return 1;
+    if (a.key.toLowerCase() > b.key.toLowerCase()) return -1;
     return 0;
   }
 
@@ -185,8 +188,10 @@
   }
 
   function compareKeysReverseNum(a, b) {
-    if (parseInt(a.key) < parseInt(b.key)) return 1;
-    if (parseInt(a.key) > parseInt(b.key)) return -1;
+    if (isNaN(a.key)) a.key = 1.5;
+    if (isNaN(b.key)) b.key = 1.5;
+    if (parseFloat(a.key) < parseFloat(b.key)) return 1;
+    if (parseFloat(a.key) > parseFloat(b.key)) return -1;
     return 0;
   }
   

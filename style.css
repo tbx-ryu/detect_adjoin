@@ -51,8 +51,12 @@ th.sortable.sort-desc::after {
 th.sortable:hover::after {
   color: #eeeeee;
 }
+th.version {
+  width: 7%;
+  min-width: 40px;
+}
 th.title {
-  width: 55%;
+  width: 48%;
   min-width: 200px;
 }
 th.diff {
