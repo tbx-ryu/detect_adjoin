@@ -7,6 +7,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="style.css">
   <link href="https://use.fontawesome.com/releases/v6.2.0/css/all.css" rel="stylesheet">
+
+  <link rel="icon" type="image/png" href="img/icon.png">
+
   </head>
 
   <body>
@@ -69,27 +72,6 @@
     } else {
       document.querySelectorAll("tr.del").forEach(tr => tr.classList.remove("showDel"));
     }
-  }
-
-  function filterRows() {
-    const keyword = document.querySelector('input').value;
-    const regex = new RegExp(keyword, 'i');
-    const table = document.querySelector('table');
-    for (let i = 1; i < table.rows.length; i++) {
-      const row = table.rows[i];
-      row.style.display = 'none';
-      for (let j = 0; j < row.cells.length; j++) {
-        if (row.cells[j].textContent.match(regex)) {
-          row.style.display = 'table-row';
-          break;
-        }
-      }
-    }
-  }
-
-  function resetFilter() {
-    document.querySelector('input').value = '';
-    filterRows();
   }
 
   function sortRows() {
