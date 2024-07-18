@@ -1,3 +1,6 @@
+body {
+  font-size: 12px;
+}
 tr {
   border-style: solid None solid None;
   border-width: thin;
@@ -24,24 +27,50 @@ tr.showDel {
 }
 
 th.header {
-  padding: 10px
+  padding: 10px;
+  position: relative;
 }
-th.header.title {
-  width: 410px;
+th.sortable {
+  cursor: pointer;
 }
-th.header.diff {
-  width: 100px;
+th.sortable::after {
+  font-family: FontAwesome;
+  content: "\f0dc";
+  position: absolute;
+  right: 5px;
+  color: #a3a3a3;
 }
-th.header.lv {
-  width: 30px;
+th.sortable.sort-asc::after {
+  content: "\f0d8";
+  color: #eeeeee;
 }
-th.header.type {
-  width: 180px;
+th.sortable.sort-desc::after {
+  content: "\f0d7";
+  color: #eeeeee;
+}
+th.sortable:hover::after {
+  color: #eeeeee;
+}
+th.title {
+  width: 55%;
+  min-width: 200px;
+}
+th.diff {
+  width: 14%;
+  min-width: 70px;
+}
+th.lv {
+  width: 5%;
+  min-width: 20px;
+}
+th.type {
+  width: 26%;
+  min-width: 155px;
 }
 
 summary {
   cursor: pointer;
-  display: block;
+  /* display: block; */
 }
 
 th.sc_count {
@@ -67,17 +96,25 @@ span {
   padding: 2px;
   margin: 2px;
 }
-span.muri, span.muri_num_class {
+span.muri{
   background: #af4425;
   color: #f0f0f0;
+}
+span.muri_num_class {
+  color: #af4425;
+  font-weight: bold;
 }
 span.mucha {
   background: #fa812f;
   color: #f0f0f0;
 }
-span.adjoin, span.adjoin_num_class{
+span.adjoin{
   background: #5562ac;
   color: #f0f0f0;
+}
+span.adjoin_num_class {
+  color: #5562ac;
+  font-weight: bold;
 }
 span.nml {
   color: #50B1EF;
@@ -93,20 +130,28 @@ span.leg {
 }
 
 article.main_article {
-  width: 720px;
+  width: 100%;
+  max-width: 720px;
   margin: 0 auto;
 }
 img.def {
-  width: 500px;
+  width: 100%;
+  max-width: 480px;
 }
 
 table {
   vertical-align: top;
   /* border-style: solid None solid None; */
   border-collapse: collapse;
-  table-layout: fixed;
-  width: 720px;
+  /* table-layout: fixed; */
+  max-width: 720px;
+  min-width: 480px;
+  width: 100%;
+}
+
+div.tableBg {
   overflow-x: scroll;
+  width: 100%;
 }
 
 table.sc_count {
@@ -114,6 +159,7 @@ table.sc_count {
   margin-top: 10px;
   border-collapse: collapse;
   width: auto;
+  min-width: auto;
 }
 
 div.desc {
@@ -122,7 +168,23 @@ div.desc {
   text-indent: 0px
 }
 
+ul {
+  padding-left: 20px;
+}
+
 ul li {
   margin-top: 10px;
   margin-bottom: 10px;
+}
+
+@media (1000px <= width) {
+	body {
+		font-size: 12pt;
+	}
+  article.main_article {
+    max-width: 1080px;
+  }
+  table {
+    max-width: 1080px;
+  }
 }
